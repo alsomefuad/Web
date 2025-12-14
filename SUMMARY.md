@@ -4,7 +4,7 @@
 
 * [README](README.md)
 
-* [BAB 1: Memahami Generasi Z dalam Organisasi](BAB1.md)
+## * [BAB 1: Memahami Generasi Z dalam Organisasi](BAB1.md)
 
 
 
