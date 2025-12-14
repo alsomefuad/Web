@@ -20,6 +20,6 @@
 
 * [BAB 4: Mengelola Konflik Konstruktif](BAB4.md)
 
-## Bab 5: Regenerasi & Transfer Ilmu
+## Bab 5: Regenerasi & Transfer Ilmu(BAB5.md)
 
-* [BAB 5: Regenerasi & Transfer Ilmu](BAB5.md)
+* [BAB 5: Regenerasi & Transfer Ilmu]
