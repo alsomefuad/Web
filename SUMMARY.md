@@ -4,10 +4,11 @@
 
 * [README](README.md)
 
-# * [BAB 1: Memahami Generasi Z dalam Organisasi](BAB1.md)
+## BAB 1: Memahami Generasi Z dalam Organisasi
+* [BAB 1: Memahami Generasi Z dalam Organisasi](BAB1.md)
 
 
-
+## BAB 2: Transformational Leadership untuk Era Digital
 * [BAB 2: Transformational Leadership untuk Era Digital](BAB2.md)
 
 ## Bab 3: Manajemen Kinerja Berbasis OKR
