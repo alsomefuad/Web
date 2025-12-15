@@ -20,7 +20,7 @@ Kami bukanlah seorang penulis ulung, bukan juga seorang konseptor yang baik, tet
 
 Modul ini dirancang khusus untuk:
 
-1. **Pengurus Organisasi Kampus** - OSIS, BEM, UKM, Himpunan Mahasiswa, dan organisasi kemahasiswaan lainnya
+1. **Pengurus Organisasi Kampus** - OSIS, BEM, UKM, Himpunan Mahasiswa, dan organisasi lainnya
 2. **Ketua atau Koordinator Divisi** - Yang ingin meningkatkan efektivitas kepemimpinan mereka
 3. **Pembina Organisasi** - Dosen pembimbing, guru, atau kakak senior yang ingin membimbing dengan lebih baik
 4. **Calon Pengurus** - Yang ingin mempersiapkan diri sebelum terjun ke dunia organisasi
