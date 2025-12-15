@@ -22,3 +22,5 @@
 
 
 * [BAB 5: Regenerasi & Transfer Ilmu](BAB5.md)
+
+* [BAB 6: Manajemen Keuangan & Fundraising](BAB6.md)
