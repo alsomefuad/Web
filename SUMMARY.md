@@ -26,3 +26,5 @@
 * [BAB 6: Manajemen Keuangan & Fundraising](BAB6.md)
 
 * [BAB 7: Budaya Kesejahteraan (Wellness Culture)](BAB7.md)
+
+* ## BAB 8: EVALUASI & PEMBELAJARAN BERKELANJUTAN
