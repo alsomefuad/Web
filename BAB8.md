@@ -1,6 +1,8 @@
+---
 
+## BAB 8: MANAJEMEN PERUBAHAN ORGANISASI
 
-## 8.1 Pengantar: Mengapa Organisasi Harus Berubah?
+### 8.1 Pengantar: Mengapa Organisasi Harus Berubah?
 
 ### Realitas Organisasi Mahasiswa di Era Modern
 
@@ -65,7 +67,7 @@ Berlaku juga untuk organisasi.
 
 ---
 
-## 8.2 Memahami Psikologi Resistensi terhadap Perubahan
+### 8.2 Memahami Psikologi Resistensi terhadap Perubahan
 
 Sebelum manage perubahan, kita harus pahami: **Kenapa manusia resist terhadap perubahan?**
 
@@ -276,7 +278,7 @@ Don't try to convert Laggards first. Focus energy pada Innovators → Early Adop
 
 ---
 
-## 8.3 The Change Management Framework: Kotter's 8 Steps
+### 8.3 The Change Management Framework: Kotter's 8 Steps
 
 John Kotter, professor Harvard Business School, mengembangkan framework 8-langkah yang telah proven effective untuk manage organizational change.
 
@@ -1463,7 +1465,7 @@ Annually:
 
 ---
 
-## 8.4 Managing the Human Side: Dealing with Resistance
+### 8.4 Managing the Human Side: Dealing with Resistance
 
 Even dengan best framework, resistensi pasti ada. How to handle?
 
@@ -1692,7 +1694,7 @@ Don't badmouth. Gracious exit benefits everyone.
 
 ---
 
-## 8.5 Sustaining Change Long-Term
+### 8.5 Sustaining Change Long-Term
 
 Change yang successfully implemented still bisa decay over time kalau not maintained.
 
@@ -1867,7 +1869,7 @@ Meet quarterly with current leadership.
 
 ---
 
-## 8.6 Change Leadership Skills
+### 8.6 Change Leadership Skills
 
 Effective change management requires specific leadership competencies.
 
@@ -2047,7 +2049,7 @@ Purpose fuels persistence.
 
 ---
 
-## 8.7 Case Study: Successful Organizational Transformation
+### 8.7 Case Study: Successful Organizational Transformation
 
 **ORGANIZATION:** BEM Fakultas Ekonomi
 
