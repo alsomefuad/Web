@@ -1,6 +1,6 @@
-## BAB 8: EVALUASI & PEMBELAJARAN BERKELANJUTAN
 
-### 8.1 Pengantar: Mengapa Organisasi Mahasiswa Sering "Jalan di Tempat"?
+
+### 10.1 Pengantar: Mengapa Organisasi Mahasiswa Sering "Jalan di Tempat"?
 
 **Skenario yang terlalu familiar:**
 
@@ -71,7 +71,7 @@ Di bab ini, kita akan bangun **systematic evaluation and learning system** yang 
 
 ---
 
-### 8.2 Filosofi: Growth Mindset untuk Organisasi
+### 10.2 Filosofi: Growth Mindset untuk Organisasi
 
 Sebelum masuk ke teknis, penting untuk establish the right mindset.
 
@@ -141,7 +141,7 @@ Celebrate:
 
 ---
 
-### 8.3 Framework Evaluasi: The Learning Loop
+### 10.3 Framework Evaluasi: The Learning Loop
 
 Evaluasi bukan one-time activity di akhir. Ini adalah **continuous cycle**.
 
@@ -194,7 +194,7 @@ Benefit: Each cycle builds on previous. **Compounding improvement.**
 
 ---
 
-### 8.4 PLAN Phase: Setting Up for Learning
+### 10.4 PLAN Phase: Setting Up for Learning
 
 #### A. Clear Objectives & Success Metrics
 
@@ -427,7 +427,7 @@ _______________________________________________
 
 ---
 
-### 8.5 DO Phase: Collecting Quality Data
+### 10.5 DO Phase: Collecting Quality Data
 
 Evaluation is only as good as the data. **Garbage in, garbage out.**
 
@@ -627,7 +627,7 @@ KEY METRICS:
 
 ---
 
-### 8.6 STUDY Phase: Making Sense of Data
+### 10.6 STUDY Phase: Making Sense of Data
 
 Data collected. Now what? **Analysis time.**
 
@@ -894,7 +894,7 @@ PRIORITY: Which cause biggest impact? Focus there first.
 
 ---
 
-### 8.7 ACT Phase: Turning Insights into Action
+### 10.7 ACT Phase: Turning Insights into Action
 
 Analysis is useless without action. **This is where many organizations drop the ball.**
 
@@ -1056,7 +1056,7 @@ Record everything untuk inform future decisions
 
 ---
 
-### 8.8 Organizational Learning Systems
+### 10.8 Organizational Learning Systems
 
 Individual learning is good. **Organizational learning** is when insights become embedded in systems.
 
@@ -1215,7 +1215,7 @@ KNOWLEDGE TRANSFER MECHANISMS:
 
 ---
 
-### 8.9 Creating Culture of Continuous Learning
+### 10.9 Creating Culture of Continuous Learning
 
 Systems are necessary but not sufficient. **Culture is what makes it stick.**
 
@@ -1389,7 +1389,7 @@ EXTERNAL LEARNING SOURCES:
 
 ---
 
-### 8.10 Progress Tracking: Measuring Organizational Improvement
+### 10.10 Progress Tracking: Measuring Organizational Improvement
 
 How do you know if organization is getting better over time?
 
@@ -1512,7 +1512,7 @@ ACTIONS FOR NEXT PERIOD:
 
 ---
 
-### 8.11 Case Study: Transformation Through Learning
+### 10.11 Case Study: Transformation Through Learning
 
 **Organization X: From Struggling to Thriving**
 
