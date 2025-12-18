@@ -29,4 +29,4 @@
 
 * [BAB 8: Manajemen Perubahan Organisasi](BAB8.md)
 
-* [BAB 10: Evaluasi & Pembelajaran Berkelanjutan](BAB10.md)
+* [BAB 10: Evaluasi & Pembelajaran Berkelanjutan](BAb10.md)
