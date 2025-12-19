@@ -1,6 +1,4 @@
 
----
-
 ## BAB 6: MANAJEMEN KEUANGAN & FUNDRAISING
 
 ### 6.1 Pengantar: Mengapa Banyak Organisasi Mahasiswa "Bokek"?
