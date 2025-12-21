@@ -1,3 +1,6 @@
 # Table of contents
 
-* [Developer Platform](README.md)
+## Pengantar
+
+* [README](README.md)
+* [BAB 1: Memahami Generasi Z dalam Organisasi](pengantar/bab1.md)
