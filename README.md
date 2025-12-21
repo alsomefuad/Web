@@ -27,20 +27,20 @@ metaLinks:
 
 <p align="center"><a href="http://app.gitbook.com/join" class="button primary">Sign up</a> <a href="http://app.gitbook.com/join" class="button secondary">Log in</a></p>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4><i class="fa-inboxes">:inboxes:</i></h4></td><td><strong>Manajemen Organisasi</strong></td><td>Selami bagaimana organisasi dapat berkembang dan maju lewat 1 buku ini</td><td><a href="https://app.gitbook.com/s/DdfK7gfXa13SHiImSfnI/pengantar/readme">README</a></td><td><a href=".gitbook/assets/no-code.jpg">no-code.jpg</a></td></tr><tr><td><h4><i class="fa-box-dollar">:box-dollar:</i></h4></td><td><strong>Business</strong></td><td>Belajar binis bareng, dengan berbagai tools yang memudahkan untuk memulai bisnis</td><td><a href="https://app.gitbook.com/s/Hmpng9VfyYLZxoPraQLq/pengantar/bab1">BAB 1: Business Model Canvas (BMC) Untuk Kemandirian Organisasi</a></td><td><a href=".gitbook/assets/hosted.jpg">hosted.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4><i class="fa-inboxes">:inboxes:</i></h4></td><td><strong>Manajemen Organisasi</strong></td><td>Selami bagaimana organisasi dapat berkembang dan maju lewat 1 buku ini</td><td><a href="https://app.gitbook.com/s/DdfK7gfXa13SHiImSfnI/pengantar/readme">README</a></td><td><a href=".gitbook/assets/no-code.jpg">no-code.jpg</a></td></tr><tr><td><h4><i class="fa-box-dollar">:box-dollar:</i></h4></td><td><strong>Business</strong></td><td>Belajar binis bareng, dengan berbagai tools yang memudahkan untuk memulai bisnis</td><td><a href="https://app.gitbook.com/s/Hmpng9VfyYLZxoPraQLq/pengantar/bab1">BAB 1: Business Model Canvas (BMC) Untuk Kemandirian Organisasi</a></td><td><a href=".gitbook/assets/hosted.jpg">hosted.jpg</a></td></tr><tr><td>Belum ada</td><td>Belum ada</td><td>belum ada ya sabar ya, kalem nyak</td><td></td><td><a href=".gitbook/assets/api-reference.jpg">api-reference.jpg</a></td></tr></tbody></table>
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h4><i class="fa-square-whatsapp">:square-whatsapp:</i></h4></td><td><strong>Whatsapp community</strong></td><td>Join our Whatsapp community to post questions, get help, and share resources with over 3,000 like-minded developers.</td><td><a href="https://www.gitbook.com/" class="button secondary">Join Whatsapp</a></td><td><a href=".gitbook/assets/Strawberry-Attack_4.jpg">Strawberry-Attack_4.jpg</a></td></tr></tbody></table>
 
 {% columns %}
-{% column %}
+{% column width="50%" %}
 ### Get started in 5 minutes
 
-Setting up your first API call should be the easiest part of getting started. With clear endpoints, copy-paste-ready examples, and quick authentication, you’ll be up and running in minutes—not hours.
+Coba sebentar, screening-screeening dulu, nanti mungkin akan berasa ok, berasa ah tai, semua anda yang tahu dan anda yang menentukan lanjut atau tidak. Jika tidak senang maka jangan pernah dateng lagi yaa&#x20;
 
-No guesswork, no complexity—just your first successful call, fast.
-
-<a href="https://template.gitbook.com/space-product-docs" class="button primary" data-icon="rocket-launch">Get started</a> <a href="https://template.gitbook.com/space-api-reference" class="button secondary" data-icon="terminal">API reference</a>
+<a href="https://app.gitbook.com/o/rcQ5QdnJXRPtDMXHir28/s/DdfK7gfXa13SHiImSfnI/" class="button primary" data-icon="rocket-launch">Get started</a> <a href="https://app.gitbook.com/o/rcQ5QdnJXRPtDMXHir28/s/Hmpng9VfyYLZxoPraQLq/" class="button secondary" data-icon="box-dollar">Business reference</a>
 {% endcolumn %}
 
-{% column %}
+{% column width="50%" %}
 {% code title="index.js" overflow="wrap" %}
 ```javascript
 // Import the SDK
@@ -59,22 +59,6 @@ const response = await client.messages.send({
 {% endcolumn %}
 {% endcolumns %}
 
-{% columns %}
-{% column %}
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/placeholder.png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-
-{% column %}
-### Learn more about the developer platform
-
-Read guides, watch tutorials, and learn more about working with the developer platform and integrating it with your own stack.
-
-<a href="https://template.gitbook.com/space-help-center" class="button primary" data-icon="book-open">Guides</a> <a href="https://template.gitbook.com/space-product-docs" class="button secondary" data-icon="book">Documentation</a>
-{% endcolumn %}
-{% endcolumns %}
-
 <h2 align="center">Join a community of over 3,000 developers</h2>
 
 <p align="center">Join our Discord community or create your first PR in just a few steps.</p>
-
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4><i class="fa-discord">:discord:</i></h4></td><td><strong>Discord community</strong></td><td>Join our Discord community to post questions, get help, and share resources with over 3,000 like-minded developers.</td><td><a href="https://www.gitbook.com/" class="button secondary">Join Discord</a></td><td></td></tr><tr><td><h4><i class="fa-github">:github:</i></h4></td><td><strong>GitHub</strong></td><td>Our product is 100% open source and built by developers just like you. Head to our GitHub repository to learn how to submit your first PR.</td><td><a href="https://www.gitbook.com/" class="button secondary">Submit a PR</a></td><td></td></tr></tbody></table>
