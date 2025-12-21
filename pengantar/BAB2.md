@@ -1,6 +1,6 @@
 
 
-# BAB 2: DESIGN THINKING UNTUK MEMULAI BISNIS
+
 
 ## 2.1 Pengantar Design Thinking
 
