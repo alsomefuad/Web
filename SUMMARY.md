@@ -3,4 +3,4 @@
 ## Pengantar
 
 * [README](README.md)
-* [BAB 1: Memahami Generasi Z dalam Organisasi](pengantar/bab1.md)
+* [BAB 1: Business Model Canvas (BMC) Untuk Kemandirian Organisasi](pengantar/bab1.md)
